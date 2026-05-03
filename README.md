@@ -1,10 +1,10 @@
 AI powered travel planner app that helps you plan a trip anywhere in the world and gives relevant suggestions for things to do in each city you visit. This app
 
 
-<img width="120" alt="IMG_5041" src="https://github.com/user-attachments/assets/a0bb73f3-6000-4239-bdbe-b5109afb89e0" />
-<img width="120" alt="IMG_5042" src="https://github.com/user-attachments/assets/1187dbb6-deb6-45cc-8641-517bd6204139" />
-<img width="120" alt="IMG_5043" src="https://github.com/user-attachments/assets/64e9c297-7f8a-48ce-aed9-7472abb57c0b" />
-<img width="120" alt="IMG_5044" src="https://github.com/user-attachments/assets/001d0a46-672d-446a-9de9-8428ad1a8563" />
+<img width="300" alt="IMG_5041" src="https://github.com/user-attachments/assets/a0bb73f3-6000-4239-bdbe-b5109afb89e0" />
+<img width="300" alt="IMG_5042" src="https://github.com/user-attachments/assets/1187dbb6-deb6-45cc-8641-517bd6204139" />
+<img width="300" alt="IMG_5043" src="https://github.com/user-attachments/assets/64e9c297-7f8a-48ce-aed9-7472abb57c0b" />
+<img width="300" alt="IMG_5044" src="https://github.com/user-attachments/assets/001d0a46-672d-446a-9de9-8428ad1a8563" />
 
 <img width="590" alt="IMG_5045" src="https://github.com/user-attachments/assets/a5edcaf9-32ca-413b-95fa-c6b2d156655a" />
 <img width="590" alt="IMG_5046" src="https://github.com/user-attachments/assets/4ecbae66-d428-42e4-9b4b-84854fffa104" />
