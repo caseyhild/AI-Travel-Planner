@@ -1,4 +1,4 @@
-AI powered travel planner app that helps you plan a trip anywhere in the world and gives relevant suggestions for things to do in each city you visit. This app
+AI powered travel planner app that helps you plan a trip anywhere in the world and gives relevant suggestions for things to do in each city you visit.
 
 
 <img width="200" alt="IMG_5041" src="https://github.com/user-attachments/assets/a0bb73f3-6000-4239-bdbe-b5109afb89e0" />
